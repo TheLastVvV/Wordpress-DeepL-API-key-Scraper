@@ -13,7 +13,7 @@ chmod -x WPDeepL-Scraper.sh
 
 ```
 
-[scraper](https://i.imgur.com/rNLgBCV.png)
+![scraper](https://i.imgur.com/rNLgBCV.png)
 
 
 About the plugin :
